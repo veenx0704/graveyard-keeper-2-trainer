@@ -1,14 +1,18 @@
-# Graveyard Keeper 2 — PC notes
+# Graveyard Keeper 2 Trainer +39 Free Download 2026
 
-Short Windows checklist for Graveyard Keeper 2. I keep the live option list (+39) and file on the listing below; this repo is just a public bookmark with a bit of context.
+**Graveyard Keeper 2 trainer**, **Graveyard Keeper 2 trainer download**, **Graveyard Keeper 2 cheat**, **Graveyard Keeper 2 hack**, **Graveyard Keeper 2 cheats**,
+**скачать трейнер Graveyard Keeper 2**, **трейнер Graveyard Keeper 2 2026** — MoggyDay.
 
-Listing: [https://moggydaytrainer.com/en/f/graveyard-keeper-2-trainer](https://moggydaytrainer.com/en/f/graveyard-keeper-2-trainer)
+**Graveyard Keeper 2 trainer +39** free download 2026 — Graveyard Keeper 2 cheat / Graveyard Keeper 2 hack / скачать трейнер Graveyard Keeper 2. Works on the current Steam patch.
 
-## What I keep on the listing
+**Download (current patch):** [https://moggydaytrainer.com/en/f/graveyard-keeper-2-trainer](https://moggydaytrainer.com/en/f/graveyard-keeper-2-trainer)  
+**RU:** [https://moggydaytrainer.com/f/graveyard-keeper-2-trainer](https://moggydaytrainer.com/f/graveyard-keeper-2-trainer)
 
-Build string on that page: **v1.0.0**. It currently shows **+39** rows. A few of them:
+## Graveyard Keeper 2 trainer — current Steam patch
 
-| # | Name |
+Works on the **latest PC / Steam patch** (v1.0.0). After a game update, reload the same URL.
+
+| # | Option |
 |---|---|
 | 1 | Infinite Stamina |
 | 2 | Infinite Energy |
@@ -17,9 +21,9 @@ Build string on that page: **v1.0.0**. It currently shows **+39** rows. A few of
 | 5 | Enter Lack of Sleep |
 | 6 | Energy Consu. … |
 
-I do not attach an executable here. If the game patches, reload the same URL.
+No `.exe` in this GitHub tree. The **Graveyard Keeper 2 trainer free download** button is on moggydaytrainer.com.
 
-## Why this repo exists
+## Keywords
 
-GitHub is a bookmark with a bit of context. The listing on moggydaytrainer.com is the
-page I actually use when the option names move.
+`Graveyard Keeper 2 trainer` · `Graveyard Keeper 2 trainer free` · `Graveyard Keeper 2 trainer 2026` · `Graveyard Keeper 2 cheat` · `Graveyard Keeper 2 hack` ·
+`скачать трейнер Graveyard Keeper 2` · `трейнер Graveyard Keeper 2 бесплатно` · MoggyDay TrainerHub
